@@ -1,0 +1,28 @@
+#大区配置
+zone :
+  1  : 1-100服
+  30 : 100-200服
+
+#mongodb配置
+mongodb :
+  host: 127.0.0.1
+  port: 27017
+
+#MySQL配置
+mysql:
+  username: root
+  password:  root
+  host: 127.0.0.1
+  port: 3306
+  dbname: go_sdk_api
+
+#单服通信key
+# single_key: 'kevv2t0jzgfgxnwse3w64akwgrzl3mxo'
+
+#渠道配置
+fengling:
+  5001:
+    ProductCode:  '83382308142530968411050710267445'
+    ProductKey:   '78401593'
+    Callback_Key: '91831890202362183450806681606636'
+    Md5_Key:      'kevv2t0jzgfgxnwse3w64akwgrzl3mxo'
