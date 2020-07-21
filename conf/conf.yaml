@@ -22,7 +22,7 @@ mysql:
 #渠道配置
 fengling:
   5001:
-    ProductCode:  '83382308142530968411050710267445'
-    ProductKey:   '78401593'
-    Callback_Key: '91831890202362183450806681606636'
-    Md5_Key:      'kevv2t0jzgfgxnwse3w64akwgrzl3mxo'
+    ProductCode:  '********'
+    ProductKey:   '****'
+    Callback_Key: '*****'
+    Md5_Key:      '******'
